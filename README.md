@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DevOps and Cloud**
 
-- 💬 Ask me about **PHP and Flutter**
+- 💬 Ask me about **Python, PHP and Flutter**
 
 - 📫 How to reach me **fabrioceras@gmail.com**
 
